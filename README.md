@@ -8,7 +8,10 @@ I'm currently working on various code challenges and more into challenging React
 I'm currently trying to expand my knowledge with grasping the basics of Python. 
 
 ### Skills
-<img height='49' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
+
 
 
 
