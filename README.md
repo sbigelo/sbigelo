@@ -4,29 +4,21 @@ My name is Sean Bigelow and I am a Fullstack Software Engineer. After spending o
 
 
 I just graduated from Flatiron Software Engineering (10/18/21) where I learned HTML/CSS, Javascript, JSON, Nokogiri, Rails, React, Redux, Ruby, Sinatra, and SQL.
-I'm currently working on various code challenges and more into challenging React/Redux projects.
-I'm currently trying to expand my knowledge with grasping the basics of Python. 
+<br>I'm currently working on various code challenges and more into challenging React/Redux projects.
+<br>I'm currently trying to expand my knowledge with grasping the basics of Python. 
 
 ### Skills
-<!-- <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<ul>
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> -->
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</ul>
 
 
-
- <div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-    </div>
-
-    <div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-    </div>
-
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-    </div>
-    </div>
 
 
 <!--
