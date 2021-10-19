@@ -8,11 +8,25 @@ I'm currently working on various code challenges and more into challenging React
 I'm currently trying to expand my knowledge with grasping the basics of Python. 
 
 ### Skills
-<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<!-- <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> -->
 
 
 
+ <div id="banner" style="overflow: hidden;justify-content:space-around;">
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+    </div>
+
+    <div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+    </div>
+
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+    </div>
+    </div>
 
 
 <!--
@@ -29,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
